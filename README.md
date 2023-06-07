@@ -7,7 +7,7 @@
 
 
 
-- 🔭 I’m currently working on [Bird Trading Platform]([https://github.com/harrycricket/bird-trading-platform-frontend.git](https://birdstore2nd.vercel.app/))
+- 🔭 I’m currently working on [Bird Trading Platform](https://birdstore2nd.vercel.app/)
 
 - 🌱 I’m currently learning **anything related to information technology**
 

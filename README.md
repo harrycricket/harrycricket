@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Bird Trading Platform](https://www.birdland2nd.store/)
 
-- 🌱 I’m currently learning **anything related to information technology**
+- 🌱 I’m currently learning **NodeJS & ExpressJS**
 
 - 👨‍💻 I’m currently studying at **FPT University**
 

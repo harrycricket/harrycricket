@@ -1,17 +1,9 @@
 [![MasterHead](https://bit.ly/43u1Jlg)](https://harrycricket.io)
-<h1 align="center">Hi there👋, I'm Huynh Van Phuot</h1>
-<h3 align="center">From the vibrant tech scene of Vietnam, a frontend developer with a burning passion</h3>
+<h1 align="center">Hi there👋, I'm Huynh Van Phuot and you can call me Harry</h1>
+<h3 align="center">From the vibrant tech scene of Vietnam, a Full Stack Developer with a burning passion</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harrycricket&label=Profile%20views&color=0e75b6&style=flat" alt="harrycricket" /> </p>
-
-
-
-- 🔭 I’m currently working on [Bird Trading Platform](https://www.birdland2nd.store/)
-
-- 🌱 I’m currently learning **NodeJS & ExpressJS**
-
-- 👨‍💻 I’m currently studying at **FPT University**
 
 - 📫 How to reach me **phuothuynh2002@gmail.com**
 

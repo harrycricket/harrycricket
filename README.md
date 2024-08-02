@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **phuothuynh2002@gmail.com**
 
-- 📄 Know about my experiences [https://gold-giulietta-51.tiiny.site](https://gold-giulietta-51.tiiny.site)
+- 📄 Know about my experiences [[https://gold-giulietta-51.tiiny.site](https://blush-katharyn-17.tiiny.site)]
 
 - ⚡ Fun fact **I am an outgoing, affable, and enthusiastic individual, known for my sociable nature.**
 

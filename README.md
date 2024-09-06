@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harrycricket" alt="harrycricket" /></a> </p>
 
-- 🔭 I’m currently working on **VFoody**
+- 🔭 I’m currently working on **MealSync**
 
-- 🌱 I’m currently learning **React Native and NextJS**
+- 🌱 I’m currently learning **React Native and Next.js and Vite**
 
 - 📫 How to reach me **phuothuynh2002@gmail.com**
 
